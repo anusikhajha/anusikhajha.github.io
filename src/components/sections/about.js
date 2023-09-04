@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Golang', 'Java', 'Spring-Boot', 'Docker', 'Kubernetes', 'AWS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -134,31 +134,32 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
+            <p>Hello! My name is Aman and I enjoy creating things that live on the internet.</p>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              I have always been fascinated by computers, and since I was in elementary school I
+              knew I would end up in a career working with them. My first exposure to programming
+              came actually quite late, when I was 15 or 16. I took a school course that had us code
+              on C++. That was also my first exposure to the realities of our industry: the program
+              I was making didn't get completed on time, even with features cut. Despite that, I
+              immediately found myself fascinated by programming and understanding the magical world
+              inside the computer, and so during the next year I taught myself Java.
+            </p>
+            <p>
+              Since then I have learned that it doesn't matter what language or tools you are using;
+              programming is just a realization of the thought process of the programmer. From my
+              point of view it doesn't matter what you know, any programmer worth their salt can
+              learn what they need to know in short order. What matters more is how you think, and
+              that's the part that fascinates me.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              <a href="https://zycus.com/">a Procurement based Start-Up</a>,{' '}
+              <a href="https://here.com/">a Map provider company</a>, and{' '}
+              <a href="https://www.lowes.com/">a retail giant in the US</a> . My main focus these
+              days is building accessible, inclusive products and financial experiences at{' '}
+              <a href="https://zestmoney.in/">ZestMoney</a> for customers with little to no access
+              to credit in india.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
