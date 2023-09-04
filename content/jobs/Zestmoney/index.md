@@ -3,7 +3,7 @@ date: '2022-08-16'
 title: 'Staff Engineer'
 company: 'Zestmoney'
 location: 'Bangalore, KA'
-range: 'Aug 2018 - Present'
+range: 'Aug 2022 - Present'
 url: 'https://www.zestmoney.in/'
 ---
 
