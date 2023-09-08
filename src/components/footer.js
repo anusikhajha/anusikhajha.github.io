@@ -77,7 +77,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/amnjha/portfolio')
+    fetch('https://api.github.com/repos/amnjha/amnjha.gihub.io')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://api.github.com/repos/amnjha/portfolio">
+        <a href="https://github.com/amnjha/amnjha.github.io">
           <div>Designed &amp; Built by Aman Jha</div>
 
           {githubInfo.stars && githubInfo.forks && (
