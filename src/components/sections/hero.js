@@ -60,16 +60,15 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi 👋🏻, my name is</h1>;
-  const two = <h2 className="big-heading">Aman Jha.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Anusikha Jha.</h2>;
+  const three = <h3 className="big-heading">I make sense out of Data that normal people can't.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer 👨🏻‍💻 specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://zestmoney.in/" target="_blank" rel="noreferrer">
-          ZestMoney
+        I’m a Data Analyst 👨🏻‍💻 specializing in analyising (and occasionally strategizing) Huge 
+        Datasets. Currently, I’m focused on mastering Data Analysis at {' '}
+        <a href="https://codinginvaders.com/" target="_blank" rel="noreferrer">
+          Coding Invaders
         </a>
         .
       </p>
