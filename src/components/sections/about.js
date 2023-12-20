@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Golang', 'Java', 'Spring-Boot', 'Docker', 'Kubernetes', 'AWS'];
+  const skills = ['Google Sheets', 'Excel', 'SQL', 'Power BI', 'Python'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -134,33 +134,23 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! My name is Aman and I enjoy creating things that live on the internet.</p>
-            <p>
-              I have always been fascinated by computers, and since I was in elementary school I
-              knew I would end up in a career working with them. My first exposure to programming
-              came actually quite late, when I was 15 or 16. I took a school course that had us code
-              on C++. That was also my first exposure to the realities of our industry: the program
-              I was making didn't get completed on time, even with features cut. Despite that, I
-              immediately found myself fascinated by programming and understanding the magical world
-              inside the computer, and so during the next year I taught myself Java.
-            </p>
-            <p>
-              Since then I have learned that it doesn't matter what language or tools you are using;
-              programming is just a realization of the thought process of the programmer. From my
-              point of view it doesn't matter what you know, any programmer worth their salt can
-              learn what they need to know in short order. What matters more is how you think, and
-              that's the part that fascinates me.
-            </p>
+            <p>Hello there! I'm Anusikha, a passionate and ambitious aspiring Data Analyst with a 
+            flair for turning raw data into golden insights. 📊 Armed with a wizard's wand in Google 
+            Sheets and Excel, I dance through spreadsheets, conjuring patterns and trends that unveil 
+            the stories hidden within the numbers.</p>
 
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://zycus.com/">a Procurement based Start-Up</a>,{' '}
-              <a href="https://here.com/">a Map provider company</a>, and{' '}
-              <a href="https://www.lowes.com/">a retail giant in the US</a> . My main focus these
-              days is building accessible, inclusive products and financial experiences at{' '}
-              <a href="https://zestmoney.in/">ZestMoney</a> for customers with little to no access
-              to credit in india.
-            </p>
+            <p>🐍 Python is my mystical language, and SQL is my secret code — I navigate databases with 
+            the finesse of a seasoned explorer, unlocking the gates to the realm of data. 🗝️ But that's 
+            not all! I harness the power of visualization with the enchanting capabilities of Power BI, 
+            creating dazzling dashboards that transform complexity into simplicity.</p>
+
+            <p>In a previous life, I wore the hat of an HR Professional, mastering the art of analytical 
+            hirings. My knack for deciphering the human puzzle combined with effective communication skills
+             set me apart. 🎤 I believe that data is not just about numbers; it's about the stories they 
+             tell, the decisions they influence, and the magic they create.</p>
+
+            <p>🌐 Join me on this journey as we traverse the data landscape together, transforming information
+             into insights and numbers into narratives. Let's weave a tale of success, one dataset at a time! 🚀✨</p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>

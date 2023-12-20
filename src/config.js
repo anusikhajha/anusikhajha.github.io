@@ -1,14 +1,14 @@
 module.exports = {
-  email: 'amanjha22@gmail.com',
+  email: 'anusikhajha@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/amnjha',
+      url: 'https://github.com/anusikhajha',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/amnjha',
+      url: 'https://www.instagram.com/anusikha',
     },
     {
       name: 'Twitter',
@@ -16,7 +16,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/amnjha',
+      url: 'https://www.linkedin.com/in/anusikhamishra',
     },
     {
       name: 'StackOverflow',
