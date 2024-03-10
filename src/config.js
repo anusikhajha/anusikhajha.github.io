@@ -3,24 +3,16 @@ module.exports = {
 
   socialMedia: [
     {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/anusikhamishra',
+    },
+    {
       name: 'GitHub',
       url: 'https://github.com/anusikhajha',
     },
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/anusikha',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/anusikha',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/anusikhamishra',
-    },
-    {
-      name: 'StackOverflow',
-      url: 'https://stackoverflow.com/users/3879941/anusikha',
     },
   ],
 
