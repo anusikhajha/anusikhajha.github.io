@@ -7,7 +7,8 @@ range: 'Oct 2022 - May 2023'
 url: 'https://www.satincorp.com/'
 ---
 
-- Design, Build and Maintain the Solution around application and processing of Personal Loans
-- Build and Maintain the ZestMoney Orchestration layer(ZestLife Channel) that acts as a proxy between the Client facing App and the ZestMoney Internal Services
-- Lead a team of Developers to build and maintain Zestmoney services while coordinating requirements with higher management and design and build solutions around it along with the development team.
-- Review and Moderation of Codebase
+- Responsible for handling E2E Recruitment along with Stakeholder-Management forthe client Meta (Facebook)
+- Coordinate with Hiring Managers, to forecast hiring needs and departmental goals.
+- Conduct candidate sourcing and screening by utilizing various channels based on position requirements and provide recommendations to the hiring managers.
+- Collaboration with HR Leadership regarding candidate salary determination.
+- Build up personal database of candidates, for various roles and hiring needs.

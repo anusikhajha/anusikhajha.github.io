@@ -7,8 +7,8 @@ range: 'Jul 2020 - Dec 2020'
 url: 'https://primusglobal.com/'
 ---
 
-- Development and maintenance of Homegrown Self-Checkout system - `Tachyon` for the Lowe’s Store ambience.
-- Dashboarding and Alerting for Transactions across Self Checkout Systems
-- Extending the Self Checkout system to act as a Platform to be used across varied Till types.
-- Enablement of Cash Processing Capabilities across Stores.
-- Designing and Moderation of Codebase.
+- Responsible for handling the entire recruitment cycle.
+- Conduct intake / kick-off discussions with panel to understand the position requirements and propose potential hiring solutions.
+- Worked on different technologies and domains as perthe clients requirements.
+- Profile screening of candidates, and taking preliminary interviews.
+- Responisble forrecruiting both consulting and full time roles, for clients like HCL, Tech Mahindra, etc.
