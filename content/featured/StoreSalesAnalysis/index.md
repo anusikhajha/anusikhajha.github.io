@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Store Sales Analysis Using Google Sheets'
-cover: './1.png'
+cover: './2.png'
 github: ''
 external: 'https://drive.google.com/drive/folders/1O2e7zEUPQfqVyOQ2UhFnPge4Qs5FjTNr?usp=drive_link'
 tech:

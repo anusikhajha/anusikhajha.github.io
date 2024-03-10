@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Bike Docking Station Optimization in Mumbai'
-cover: './2.png'
+cover: './1.png'
 external: 'https://drive.google.com/drive/folders/1O2e7zEUPQfqVyOQ2UhFnPge4Qs5FjTNr?usp=drive_link'
 cta: 'https://drive.google.com/drive/folders/1O2e7zEUPQfqVyOQ2UhFnPge4Qs5FjTNr?usp=drive_link'
 tech:

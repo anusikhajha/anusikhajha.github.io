@@ -7,7 +7,7 @@ tech:
   - Python
   - Yaml
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 A Python based tool for Subdomain Takeover vulnerability detection.

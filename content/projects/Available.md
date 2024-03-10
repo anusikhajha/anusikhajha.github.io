@@ -7,7 +7,7 @@ tech:
   - Python
   - Who-IS
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 A Python module for checking availability of domain names. Helper for Security testing of Websites
