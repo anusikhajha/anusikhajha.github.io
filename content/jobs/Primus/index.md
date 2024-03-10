@@ -1,9 +1,9 @@
 ---
-date: '2020-12-01'
+date: '2020-07-01'
 title: 'Senior Technical Recruiter'
 company: 'Primus Global'
-location: 'Bangalore, KA'
-range: 'Dec 2020 - Mar 2022'
+location: 'Noida, UP'
+range: 'Jul 2020 - Dec 2020'
 url: 'https://primusglobal.com/'
 ---
 

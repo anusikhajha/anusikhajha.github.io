@@ -1,7 +1,7 @@
 ---
-date: '2018-06-18'
+date: '2020-12-01'
 title: 'Senior Technical Recruiter'
-company: 'Primus Global'
+company: 'Aditi Consulting'
 location: 'Bengaluru, KA'
 range: 'Dec 2020 - Mar 2022'
 url: 'https://www.aditiconsulting.com/'
