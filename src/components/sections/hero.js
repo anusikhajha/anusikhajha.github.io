@@ -60,13 +60,13 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi 👋🏻, my name is</h1>;
-  const two = <h2 className="big-heading">Anusikha Jha.</h2>;
+  const two = <h2 className="big-heading">Anusikha.</h2>;
   const three = <h3 className="big-heading">I make sense out of Data that normal people can't.</h3>;
   const four = (
     <>
       <p>
-        I’m a Data Analyst 👨🏻‍💻 specializing in analyising (and occasionally strategizing) Huge 
-        Datasets. Currently, I’m focused on mastering Data Analysis at {' '}
+        I’m a Data Analyst 👨🏻‍💻 specializing in analyising (and occasionally strategizing) Huge
+        Datasets. Currently, I’m focused on mastering Data Analysis at{' '}
         <a href="https://codinginvaders.com/" target="_blank" rel="noreferrer">
           Coding Invaders
         </a>
@@ -75,7 +75,7 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a className="email-link" href="https://topmate.io/amnjha" target="_blank" rel="noreferrer">
+    <a className="email-link" href="https://topmate.io/anusikha" target="_blank" rel="noreferrer">
       Talk To Me!
     </a>
   );

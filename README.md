@@ -2,10 +2,10 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  Aman Jha
+  Anusikha
 </h1>
 <p align="center">
-  The source of <a href="https://amanjha.dev" target="_blank">amanjha.dev</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The source of <a href="https://anusikhajha.github.io" target="_blank">anusikhajha.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 <p align="center">

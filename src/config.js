@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/amn_jha',
+      url: 'https://twitter.com/anusikha',
     },
     {
       name: 'Linkedin',
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'StackOverflow',
-      url: 'https://stackoverflow.com/users/3879941/aman-j',
+      url: 'https://stackoverflow.com/users/3879941/anusikha',
     },
   ],
 
