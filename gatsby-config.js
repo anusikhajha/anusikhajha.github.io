@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Aman Jha',
+    title: 'Anusikha',
     description:
-      'Aman Jha is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://amnjha.github.io', // No trailing slash allowed!
+      'Anusikha is a Data Analyst 👨🏻‍💻 specializing in analyising (and occasionally strategizing) Huge Datasets. Currently, focused on mastering Data Analysis at Coding Invaders..',
+    siteUrl: 'https://anuiskhajha.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@amn_jha',
+    twitterUsername: '@anusikhajha',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Aman Jha',
-        short_name: 'Aman Jha',
+        name: 'Anusikha',
+        short_name: 'Anusikha',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
