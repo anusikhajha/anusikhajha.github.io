@@ -1,10 +1,10 @@
 ---
-date: '2020-11-02'
-title: 'Senior Software Engineer'
-company: 'Lowes'
+date: '2020-12-01'
+title: 'Senior Technical Recruiter'
+company: 'Primus Global'
 location: 'Bangalore, KA'
-range: 'November 2020 - August 2022'
-url: 'https://www.lowes.co.in/'
+range: 'Dec 2020 - Mar 2022'
+url: 'https://primusglobal.com/'
 ---
 
 - Development and maintenance of Homegrown Self-Checkout system - `Tachyon` for the Lowe’s Store ambience.

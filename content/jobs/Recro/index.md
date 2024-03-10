@@ -1,10 +1,10 @@
 ---
-date: '2022-08-16'
-title: 'Staff Engineer'
-company: 'Zestmoney'
+date: '2023-05-01'
+title: 'Sr TA Consultant'
+company: 'Recrosoft Technologies Ltd'
 location: 'Bangalore, KA'
 range: 'Aug 2022 - Present'
-url: 'https://www.zestmoney.in/'
+url: 'https://recro.io/'
 ---
 
 - Design, Build and Maintain the Solution around application and processing of Personal Loans

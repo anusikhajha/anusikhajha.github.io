@@ -1,10 +1,10 @@
 ---
 date: '2018-06-18'
-title: 'Senior Software Engineer'
-company: 'HERE Maps'
-location: 'Mumbai, MH'
-range: 'June 2018 - October 2020'
-url: 'https://www.here.com/'
+title: 'Senior Technical Recruiter'
+company: 'Primus Global'
+location: 'Bengaluru, KA'
+range: 'Dec 2020 - Mar 2022'
+url: 'https://www.aditiconsulting.com/'
 ---
 
 - Community Platform Applications forIngestion and Management of Map Data, for publishing real-time Map-Updates. Services for Real-Time Map-Data Validation and Repairs before ingestion into the Map for ensuring data quality.

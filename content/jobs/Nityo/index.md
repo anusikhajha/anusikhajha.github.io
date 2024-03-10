@@ -1,10 +1,10 @@
 ---
-date: '2016-07-04'
-title: 'Software Engineer'
-company: 'Zycus'
-location: 'Mumbai, MH'
-range: 'July 2016 - May 2018'
-url: 'https://zycus.com/'
+date: '2019-01-01'
+title: 'Technical Recruiter'
+company: 'Nityo Infotech Pvt Ltd.'
+location: 'Noida, UP'
+range: 'Jan 2019 - June 2020'
+url: 'https://www.nityo.com/'
 ---
 
 - Central Reporting Management System forthe Entire Zycus Product Suite.
