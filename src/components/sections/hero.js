@@ -67,8 +67,8 @@ const Hero = () => {
       <p>
         I’m a Data Analyst 👨🏻‍💻 specializing in analyising (and occasionally strategizing) Huge
         Datasets. Currently, I’m focused on mastering Data Analysis at{' '}
-        <a href="https://codinginvaders.com/" target="_blank" rel="noreferrer">
-          Coding Invaders
+        <a href="https://deltas.co.in/" target="_blank" rel="noreferrer">
+          Delta India
         </a>
         .
       </p>
