@@ -1,6 +1,6 @@
 ---
 date: '2022-10-01'
-title: 'Data Analyst Trainee'
+title: 'Data Analyst'
 company: 'Delta India'
 location: 'Pune, MH'
 range: 'Oct 2022 - Present'
