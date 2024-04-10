@@ -1,15 +1,16 @@
 ---
-date: '2023-05-01'
+date: '2022-10-01'
 title: 'Data Analyst Trainee'
-company: 'Ionox Technologies Pvt. Ltd'
-location: 'Bhubaneswar, OD'
-range: 'Mar 2023 - Present'
-url: 'https://ionoxsoftware.in/'
+company: 'Delta India'
+location: 'Pune, MH'
+range: 'Oct 2022 - Present'
+url: 'https://deltas.co.in/'
 ---
 
-- Developed and implemented effective dashboard solutions forthe metrics by coordinating with the business stakeholders.
-- Developed SQL scripts involving multiple data warehouses and schemas to analyze and automate the existing manual Data Loss Prevention Metrics
-- Build the dashboard to monitorthe performance of various models and effectively communicate with stakeholders to retain the models.
+- Evaluated and presented Power BI scorecard wireframes,resulting in a 40% increase in data visualisation productiveness and simplifying deliberating methods for stakeholders throughout the organization.
+- Worked on the development of interactive reports using Live, Import, and Direct Query modes in Power BI Desktop; facilitated data-informed decision making across interdisciplinary teams, boosting to 20% customer satisfaction.
+- Proficiency in Excel was indispensable, given the extensive data analysis demands relying heavily on Pivot tables and VLOOKUP formulas.
 - Performed Data Validation to ensure Data quality, completeness, and correctness by working with business partners using MS Excel
-- Analyze data and develop unique tables, charts, and other data displays for inclusion in reports to various clients and as data support for research/consulting staff using Power BI.
-- Developed SQL queries to extract, manipulate, and/or calculate information to fulfil data and reporting requirements including
+- Implemented bookmarks in single tab, incorporated slicer synchronisation, edit
+  interaction in report for betterreadability and userfeasible reports.
+- Developed SQL queries to extract, manipulate, and/or calculate information to fulfil data and reporting requirements including identifying the tables and columns from which data is extracted.
