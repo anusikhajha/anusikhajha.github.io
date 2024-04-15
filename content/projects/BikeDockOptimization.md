@@ -6,7 +6,7 @@ external: 'https://drive.google.com/drive/folders/1O2e7zEUPQfqVyOQ2UhFnPge4Qs5Fj
 tech:
   - Google Sheets
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 Data analysis for optimization of building bike docking stations in mumbai for effiecent management of traffic
